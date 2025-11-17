@@ -47,11 +47,8 @@ This project demonstrates low-level peripheral interfacing, camera control, memo
 ## 📷 Project Gallery
 
 ### Hardware Setup
-![Hardware Setup 1](images/hardware_setup_1.jpg)
+![Hardware Setup 1](images/hardware_setup.jpg)
 *ESP32-S3 development board with ArduCAM Mega connected via SPI*
-
-![Hardware Setup 2](images/hardware_setup_2.jpg)
-*Complete hardware setup showing wiring and components*
 
 ### Web Interface
 ![Web Interface](images/web_interface.png)
