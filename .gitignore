@@ -1,0 +1,41 @@
+# ESP-IDF build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# IDE and editor files
+.vscode/
+.devcontainer/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Cache and temporary files
+.cache/
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ESP-IDF specific
+dependencies.lock
+sdkconfig.old
+managed_components/
+
+# Personal configuration (contains WiFi credentials)
+# Uncomment if you want to exclude your personal config
+# sdkconfig
