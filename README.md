@@ -44,6 +44,23 @@ This project demonstrates low-level peripheral interfacing, camera control, memo
 - **FreeRTOS task management** with watchdog integration
 - **Status indication** via RGB LED (white=capturing, green=success, red=error)
 
+## 📷 Project Gallery
+
+### Hardware Setup
+![Hardware Setup 1](images/hardware_setup_1.jpg)
+*ESP32-S3 development board with ArduCAM Mega connected via SPI*
+
+![Hardware Setup 2](images/hardware_setup_2.jpg)
+*Complete hardware setup showing wiring and components*
+
+### Web Interface
+![Web Interface](images/web_interface.png)
+*Camera web interface displaying captured QVGA image with download functionality*
+
+### Serial Monitor Output
+![Serial Monitor](images/serial_monitor.png)
+*ESP-IDF monitor showing successful WiFi connection, camera initialization, and image capture process*
+
 ---
 
 ## Hardware Setup
